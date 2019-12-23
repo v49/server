@@ -153,7 +153,7 @@
 		<dependency>
 			<groupId>io.xiaper</groupId>
 			<artifactId>xiaper-spring-boot-starter-kefu</artifactId>
-			<version>2.1.4.RELEASE</version>
+			<version>2.1.6.RELEASE</version>
 		</dependency>
 
 		<!--///////////////////////////////////////////////////////////////////////////////////////-->
